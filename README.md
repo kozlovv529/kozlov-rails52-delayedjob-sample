@@ -1,6 +1,6 @@
 # README
 
-"Things" is an example application to practice and demonstrate use of numerous technologies useful in a website.  
+This application is an example application to practice and demonstrate use of numerous technologies useful in a website.  
 
 #### View Application
 You may view the running application, hosted on a t2.micro instance and free-tier RDS Postgresql instance at AWS:
